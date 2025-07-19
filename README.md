@@ -8,9 +8,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure (Virtual Machine)
 - Remote Desktop
 - Internet Information Services (IIS)
+- osTicket
 
 <h2>Operating Systems Used </h2>
 
@@ -18,11 +19,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Configure Permissions within osTicket
+- Configure and define SLAs (Service Level Agreements)
+- Configure and Define Ticket Visibility and Permissions
+- Configure Help Topics
 
 <h2>Configuration Steps</h2>
 
