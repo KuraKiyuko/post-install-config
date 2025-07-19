@@ -22,7 +22,9 @@ First things first, there are two important links. The first one is this link:</
 
 http://localhost/osTicket/scp/login.php 
 
-This is the Admin/Analyst login page, and is where your Employees and Admins will use to manage the Ticketing System. It looks like this.
+This is the Admin/Analyst login page, and is where your Employees and Admins will use to manage the Ticketing System. 
+
+It looks like this.
 </p>
 <p>
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a2c4e270-487a-450a-b9e8-faa9a734e7ce" />
@@ -51,7 +53,7 @@ I'd also like to point out this "Admin Panel" Button.
 <br />
 <img width="330" height="36" alt="image" src="https://github.com/user-attachments/assets/b1b6acf7-44c8-4ee7-a61e-07a32432ec8f" />
 
-When you first log in, you'll be logged in on the "Agent" panel, which shows you what the page looks like if you were essentially logged in as a Help Desk worker. You can click the Admin panel to switch to the sysAdmin side of things and configure stuff on the backend, which is what we're going to do, so go ahead and click it.
+When you first log in, you'll be logged in on the "Agent" panel. This shows you what the page looks like if you were logged in as a Help Desk worker. You can click the Admin panel to switch to the sysAdmin side of things and configure stuff on the backend, which is what we're going to do, so go ahead and click it.
 </p>
 
 <p>
