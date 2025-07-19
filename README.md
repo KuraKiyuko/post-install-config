@@ -190,9 +190,12 @@ Now that we've got our users, we can configure our SLAs (Service Level Agreement
 </p>
 <p>
 We're going to create 3 different types of SLAs. 
-Sev-A (Grace Period: 1 hour, Schedule: 24/7)
-Sev-B (Grace Period: 4 hours, Schedule: 24/7)
-Sev-C (Grace Period: 8 hours, Business Hours)
+
+-Sev-A (Grace Period: 1 hour, Schedule: 24/7)
+
+-Sev-B (Grace Period: 4 hours, Schedule: 24/7)
+
+-Sev-C (Grace Period: 8 hours, Business Hours)
 
 Now that we know what we're creating, go ahead and click "Add New SLA Plan" and create them.
 </p>
@@ -207,11 +210,16 @@ Now that we know what we're creating, go ahead and click "Add New SLA Plan" and 
 Next, we're going to create different Help Topics for users to choose from when creating a ticket. To do this, go to the Admin Panel, then hover over Manage and click Help Topics.
 
 We'll be creating the following Help Topics:
-Business Critical Outage
-Personal Computer Issues
-Equipment Request
-Password Reset
-Other
+
+-Business Critical Outage
+
+-Personal Computer Issues
+
+-Equipment Request
+
+-Password Reset
+
+-Other
 
 When you're ready, click "Add New Help Topic" to create one.
 </p>
