@@ -17,7 +17,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-First things first, there are two important links. The first one is this link: http://localhost/osTicket/scp/login.php. This is the Admin/Analyst login page, and is where your Employees and Admins will use to manage the Ticketing System. It looks like this.
+First things first, there are two important links. The first one is this link: (http://localhost/osTicket/scp/login.php). This is the Admin/Analyst login page, and is where your Employees and Admins will use to manage the Ticketing System. It looks like this.
 </p>
 <p>
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a2c4e270-487a-450a-b9e8-faa9a734e7ce" />
